@@ -4,7 +4,7 @@
             "name": "Mass_1.stl",
             "path": "Mass_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/GA_NW/main/Mass_1.stl",
-            "opacity": 0.5,
+            "opacity": 0.9,
             "color": "#90ee90",
             "material": {
                 "type": "MeshStandardMaterial",
