@@ -1,0 +1,74 @@
+{
+    "models": [
+        {
+            "name": "Mass_1.stl",
+            "path": "Mass_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/GA_NW/main/Mass_1.stl",
+            "opacity": 1.0,
+            "color": "#90ee90"
+        },
+        {
+            "name": "Mass_2.stl",
+            "path": "Mass_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/GA_NW/main/Mass_2.stl",
+            "opacity": 1.0,
+            "color": "#90ee90"
+        },
+        {
+            "name": "Mass_3.stl",
+            "path": "Mass_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/GA_NW/main/Mass_3.stl",
+            "opacity": 1.0,
+            "color": "#90ee90"
+        },
+        {
+            "name": "Mass_4.stl",
+            "path": "Mass_4.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/GA_NW/main/Mass_4.stl",
+            "opacity": 1.0,
+            "color": "#90ee90"
+        },
+        {
+            "name": "Mass_5.stl",
+            "path": "Mass_5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/GA_NW/main/Mass_5.stl",
+            "opacity": 1.0,
+            "color": "#90ee90"
+        },
+        {
+            "name": "artery.stl",
+            "path": "artery.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/GA_NW/main/artery.stl",
+            "opacity": 1.0,
+            "color": "#d8654f"
+        },
+        {
+            "name": "hepatic_portal_veins.stl",
+            "path": "hepatic_portal_veins.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/GA_NW/main/hepatic_portal_veins.stl",
+            "opacity": 1.0,
+            "color": "#0000ff"
+        },
+        {
+            "name": "hepatic_vein.stl",
+            "path": "hepatic_vein.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/GA_NW/main/hepatic_vein.stl",
+            "opacity": 1.0,
+            "color": "#0097ce"
+        },
+        {
+            "name": "liver.stl",
+            "path": "liver.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/GA_NW/main/liver.stl",
+            "opacity": 0.4,
+            "color": "#dd8265"
+        },
+        {
+            "name": "svc.stl",
+            "path": "svc.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/GA_NW/main/svc.stl",
+            "opacity": 1.0,
+            "color": "#d8654f"
+        }
+    ]
+}
